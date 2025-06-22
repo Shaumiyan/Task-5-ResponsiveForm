@@ -2,7 +2,7 @@
 
 This is a simple contact form built as part of a Web Development Internship Task. It uses HTML, CSS, and JavaScript to validate form inputs directly in the browser before submission.
 
-## 🌟 Features
+## Features
 
 - **Full Name** – Required (minimum 3 characters)
 - **Email** – Required (must be a valid email format)
@@ -12,19 +12,19 @@ This is a simple contact form built as part of a Web Development Internship Task
 - **Live Validation** – Shows error messages under each field
 - **Success Alert** – Simulates form submission with a loading effect
 
-## 🛠️ Tech Used
+##  Tech Used
 
 - HTML5
 - CSS3
 - JavaScript 
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repo or download the files
 2. Open `index.html` in your browser
 3. Try filling the form and watch the validation in action
 
-## 📝 Task Objective
+## Task Objective
 
 Handle client-side validation for a contact form to:
 - Improve user experience
